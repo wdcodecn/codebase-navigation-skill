@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Navigation"
+  short_description: "Find owners faster and keep project context current"
+  default_prompt: "Use $codebase-navigation to improve this project's code navigation and keep useful context current across future tasks."
